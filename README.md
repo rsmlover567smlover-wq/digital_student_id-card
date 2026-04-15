@@ -46,4 +46,5 @@ start index.html   # Windows
 
 # ⚡ If using Python (only if your project has .py file)
 pip install -r requirements.txt
+
 python main.py
